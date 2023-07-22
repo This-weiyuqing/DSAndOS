@@ -52,7 +52,8 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1
 			]
 		}
 	],
@@ -89,7 +90,8 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1
 			]
 		}
 	],
@@ -99,6 +101,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "DSBySelf/2.1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DSBookCode/\u6570\u636e\u7ed3\u6784\u7b2c2\u7248-\u4e66\u4e2d\u7b97\u6cd5\uff08C\u8bed\u8a00\u7248\uff09/\u7b2c2\u7ae0/2.1-2.5/2.1-2.5.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

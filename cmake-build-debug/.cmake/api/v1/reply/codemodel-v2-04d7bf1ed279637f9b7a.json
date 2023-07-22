@@ -41,14 +41,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "DSAndOS::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-DSAndOS-Debug-54fa89b38eeedd21710b.json",
+					"jsonFile" : "target-DSAndOS-Debug-7b95e6a95a9b04fc1a3c.json",
 					"name" : "DSAndOS",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "DSAndOS2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-DSAndOS2-Debug-2e73eb83e2631ad02f20.json",
+					"jsonFile" : "target-DSAndOS2-Debug-5472585d2ccc7e1931ae.json",
 					"name" : "DSAndOS2",
 					"projectIndex" : 0
 				}
